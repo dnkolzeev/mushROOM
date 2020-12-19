@@ -21,7 +21,6 @@ from sklearn.metrics import cohen_kappa_score
 from sklearn.metrics import plot_confusion_matrix
 
 import seaborn as sn
-import cv2
 
 
 # In[5]:
